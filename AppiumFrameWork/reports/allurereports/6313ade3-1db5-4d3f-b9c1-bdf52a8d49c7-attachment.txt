@@ -1,0 +1,5 @@
+[32mINFO    [0m BasePage:BasePage.py:61 Clicked found with LocatorType: id with the locatorValue : com.code2lead.kwad:id/Login
+[32mINFO    [0m BasePage:BasePage.py:72 Send text on Element with LocatorType: index with the locatorValue : 3
+[32mINFO    [0m BasePage:BasePage.py:72 Send text on Element with LocatorType: text with the locatorValue : Enter Password
+[32mINFO    [0m BasePage:BasePage.py:61 Clicked found with LocatorType: id with the locatorValue : com.code2lead.kwad:id/Btn3
+[32mINFO    [0m BasePage:BasePage.py:90 Unable to send text on element not found with LocatorType: text with the locatorValue : Enter Admin is not displayed

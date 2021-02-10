@@ -1,0 +1,5 @@
+13/01/21 11:11:53 AM Wednesday - methodTwo - CRITICAL : Critial msg
+13/01/21 11:11:53 AM Wednesday - methodTwo - ERROR : Error msg
+13/01/21 11:11:53 AM Wednesday - methodTwo - WARNING : Warn msg
+13/01/21 11:11:53 AM Wednesday - methodTwo - INFO : Info msg
+13/01/21 11:11:53 AM Wednesday - methodTwo - DEBUG : Debug msg
