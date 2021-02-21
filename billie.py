@@ -1,19 +1,19 @@
 import atexit
 
 from appium import webdriver
-from appium.webdriver.appium_service import AppiumService
-
-appium_service = AppiumService()
-appium_service.start()  # Starts the appium client service
-
-
-def stop_appium():
-    print("Stop Appium")
-    appium_service.stop()
-
-
-atexit.register(stop_appium)
-
+# from appium.webdriver.appium_service import AppiumService
+#
+# appium_service = AppiumService()
+# appium_service.start()  # Starts the appium client service
+#
+#
+# def stop_appium():
+#     print("Stop Appium")
+#     appium_service.stop()
+#
+#
+# atexit.register(stop_appium)
+#
 desired_caps = {}
 desired_caps['platformName'] = 'Android'
 desired_caps['platformVersion'] = ''
